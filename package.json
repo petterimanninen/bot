@@ -1,0 +1,17 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "facebook chatbot",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PMa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "botly": "^1.3.4",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
